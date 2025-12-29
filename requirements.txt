@@ -1,0 +1,10 @@
+huggingface_hub
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+seaborn
+timm
+torch
+umap-learn
